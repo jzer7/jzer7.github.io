@@ -5,8 +5,12 @@ categories:
   - blog
 tags:
   - github
-  - github-pages
   - jekyll
 ---
 
-I decided to use Github Pages to host some information online.  The system is fairly simple to use, you just create a repository, which holds regular markdown. Then Github renders it to HTML using Jekyll.  The initial template is a bit rudimentary, so I decided to try using the ["Minimal Mistakes" template](https://mmistakes.github.io/mm-github-pages-starter/).
+I decided to use [Github Pages](https://pages.github.com/) to host some information online.
+The system is fairly simple to use:
+* create a repository with some markdown
+* configure the settings of that repository to have Github render it to HTML using Jekyll.
+
+The initial template is a bit rudimentary, so I decided to try using the ["Minimal Mistakes" template](https://mmistakes.github.io/mm-github-pages-starter/).
