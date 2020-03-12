@@ -1,3 +1,3 @@
-## Notes
+# Notes
 
-References
+Basic repository of semi-interesting notes and other observations.
